@@ -14,8 +14,13 @@
         "layer_lock": true,
         "nkro": true,
         "programmable_button": true,
-        "rgb_matrix": true
+        "rgb_matrix": true,
     },
+
+    "bootmagic": {
+        "matrix": [5, 5]
+    },
+
     "layouts": {
         "LAYOUT": {
             "layout": [
@@ -207,6 +212,9 @@
             "sync": {
                 "matrix_state": true
             }
+        },
+        "usb_detect": {
+            "enabled": true
         }
     },
 

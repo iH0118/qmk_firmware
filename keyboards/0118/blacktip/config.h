@@ -23,4 +23,3 @@
 #define SERIAL_USART_TX_PAL_MODE            4
 #define SERIAL_USART_RX_PIN                 A3
 #define SERIAL_USART_RX_PAL_MODE            4
-
